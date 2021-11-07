@@ -1,0 +1,2 @@
+Yi-Shian Liu: indexPage, main, and some changes in the addWordOccurence
+Jacob Gottschalk: addWordOccurrence, printTrieContents, and freeTrieMemory.
